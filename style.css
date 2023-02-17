@@ -1,4 +1,5 @@
 body {
+    border:2px solid green;
 	font-family: sans-serif;
 	text-align: center;
 	padding: 3rem;
@@ -27,4 +28,10 @@ button {
 	border: 1px solid navy;
 	background-color: dodgerblue;
 	color: white;
+}
+
+img{
+    width: 20rem;
+    height: 25rem;
+    margin-top: 2rem;
 }
